@@ -61,9 +61,9 @@ I enjoy solving real-world problems through clean, efficient code and exploring 
 - 🧠 Favorite Topics: Binary Search, Graph Theory, DP, Backtracking, Problem Reductions
 - 🏅 Badges:
   <br/>
-  <img src="https://github.com/adityakhanna2003/adityakhanna2003/blob/main/leetcode/assets/100-days.png" width="60"/>
-  <img src="https://github.com/adityakhanna2003/adityakhanna2003/blob/main/leetcode/assets/200-days.png" width="60"/>
-  <img src="https://github.com/adityakhanna2003/adityakhanna2003/blob/main/leetcode/assets/365-days.png" width="60"/>
+  <img src="https://github.com/adityakhanna2003/adityakhanna2003/blob/main/assets/leetcode/100-days.png" width="60"/>
+  <img src="https://github.com/adityakhanna2003/adityakhanna2003/blob/main/assets/leetcode/200-days.png" width="60"/>
+  <img src="https://github.com/adityakhanna2003/adityakhanna2003/blob/main/assets/leetcode/365-days.png" width="60"/>
 
 ---
 
