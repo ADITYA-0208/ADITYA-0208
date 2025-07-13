@@ -19,9 +19,8 @@
 Hi! I'm **Aditya**, a final-year Computer Science student from **JIIT Noida** passionate about building scalable backends and cloud-native applications.  
 I enjoy solving real-world problems through clean, efficient code and exploring distributed systems on AWS.
 
-- 🏗️ Building: **Billing Management System**  
 - ☁️ Exploring: **Spring Boot Security, JWT, AWS EC2/S3**  
-- 💻 DSA Count: **800+ problems solved** on LeetCode, GFG & Codeforces  
+- 💻 DSA Count: **500+ problems solved** on LeetCode, 200+ GFG & Codeforces  
 - 🧠 Codeforces Rank: **1200+**  
 - 📫 Mail: [adityavardhankhanna@gmail.com](mailto:adityavardhankhanna@gmail.com)
 
