@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/COLLEGE-JIIT%20NOIDA-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CODEFORCES-1200%2B-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-800%2B%20Problems%20Solved-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-500%2B%20Problems%20Solved-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS-Cloud%20Learner-yellowgreen?style=for-the-badge" />
 </p>
 
@@ -56,9 +56,14 @@ I enjoy solving real-world problems through clean, efficient code and exploring 
 
 ## 📊 DSA Journey
 
-- ✅ **800+ Problems Solved:** Arrays, Graphs, DP, Trees, Sliding Window & more  
+- ✅ **500+ Problems Solved:** Arrays, Graphs, DP, Trees, Sliding Window & more  
 - 🚀 Platforms: [LeetCode](https://leetcode.com), [Codeforces](https://codeforces.com/profile/adityakhanna), GFG  
 - 🧠 Favorite Topics: Binary Search, Graph Theory, DP, Backtracking, Problem Reductions
+- 🏅 Badges:
+  <br/>
+  <img src="https://github.com/adityakhanna2003/adityakhanna2003/blob/main/assets/leetcode/100-days.png" width="60"/>
+  <img src="https://github.com/adityakhanna2003/adityakhanna2003/blob/main/assets/leetcode/200-days.png" width="60"/>
+  <img src="https://github.com/adityakhanna2003/adityakhanna2003/blob/main/assets/leetcode/knight.png" width="60"/>
 
 ---
 
