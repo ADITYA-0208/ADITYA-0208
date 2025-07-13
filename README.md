@@ -81,12 +81,5 @@ I enjoy solving real-world problems through clean, efficient code and exploring 
 
 ---
 
-## ✨ Fun Bits
-
-- ☕ Runs on code, chai, and curiosity.  
-- ⚙️ Loves setting up EC2 instances and architecting backend services.  
-- 📚 Believer in **mastering core concepts** before tools.
-
----
 
 <h3 align="center">AWS Cloud Builder | Spring Boot Dev | Java 💻</h3>
