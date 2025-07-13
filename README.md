@@ -1,28 +1,47 @@
 <h1 align="center">✨ Aditya Khanna ✨</h1>
-<p align="center">👨‍💻 Final Year CSE Student @ JIIT Noida | ⚙️ Backend Engineer | ☁️ AWS & Spring Boot Enthusiast</p>
+<p align="center">
+  👨‍💻 Final Year CSE Student @ JIIT Noida | ☁️ Backend & Cloud Developer | 💡 DSA Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COLLEGE-JIIT%20NOIDA-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CODEFORCES-1200%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-800%2B%20Problems%20Solved-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Learner-yellowgreen?style=for-the-badge" />
+</p>
 
 ---
 
-### 🌟 About Me  
-"Clean code. Scalable systems. Relentless curiosity."
+## 🌟 About Me
 
-Hey there! I'm Aditya, a Computer Science student at JIIT Noida who loves building efficient backend systems and scalable full-stack applications. I'm deeply interested in backend architecture, AWS cloud, and real-world problem solving through code.
+> *"Clean code. Scalable systems. Relentless curiosity."*
 
-- 🔭 Currently Building: Billing Management System  
-- ☁️ Recently Working With: AWS EC2, S3, Spring Boot Security, JWT Auth  
-- 💻 DSA Stats: 800+ problems solved across LeetCode, Codeforces & GFG  
-- 🎯 Codeforces: 1200+ rating  
-- 📫 Reach me at: **adityavardhankhanna@gmail.com**
+Hi! I'm **Aditya**, a final-year Computer Science student from **JIIT Noida** passionate about building scalable backends and cloud-native applications.  
+I enjoy solving real-world problems through clean, efficient code and exploring distributed systems on AWS.
+
+- 🏗️ Building: **Billing Management System**  
+- ☁️ Exploring: **Spring Boot Security, JWT, AWS EC2/S3**  
+- 💻 DSA Count: **800+ problems solved** on LeetCode, GFG & Codeforces  
+- 🧠 Codeforces Rank: **1200+**  
+- 📫 Mail: [adityavardhankhanna@gmail.com](mailto:adityavardhankhanna@gmail.com)
 
 ---
 
-## 🧰 Tech Toolbox  
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **BillCraft** | Spring Boot, React.js, MySQL, AWS S3, JWT | A full-stack billing platform with secure login, file upload to AWS S3, and dynamic user/role management. |
+| **LaggOut** | Node.js, MongoDB, Express, JWT, Stream API | A real-time video chat app with secure friend system, protected APIs, and dynamic chat channels. |
+
+---
+
+## 🧰 Tech Toolbox
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
@@ -31,58 +50,44 @@ Hey there! I'm Aditya, a Computer Science student at JIIT Noida who loves buildi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📊 DSA Journey  
+## 📊 DSA Journey
 
-- ✅ **800+ Problems Solved** across LeetCode (500+), GFG (300+), Codeforces  
-- 🚀 Platforms: [LeetCode](https://leetcode.com) | [Codeforces](https://codeforces.com/profile/adityakhanna) | GFG  
-- 🧠 Favorite Topics: Graphs, DP, Sliding Window, Binary Search, Real-world Problem Solving  
-
----
-
-## 🚀 Projects  
-
-### 🔹 BillCraft – *Billing Management System*  
-> **Tech:** Spring Boot, MySQL, AWS S3, JWT, React  
-- Full-stack billing system with secure auth, file uploads, and role-based access.  
-- Deployed via Vercel & Render.  
-- 🔗 [GitHub Repo](https://github.com/ADITYA-0208/BillingSoftware)
-
-### 🔹 LaggOut – *Video Chat App*  
-> **Tech:** Node.js, Express, MongoDB, Stream Chat API  
-- Real-time chat, friend system, protected routes, JWT auth  
-- 🔗 [GitHub Repo](https://github.com/ADITYA-0208/LaggOut.git)
+- ✅ **800+ Problems Solved:** Arrays, Graphs, DP, Trees, Sliding Window & more  
+- 🚀 Platforms: [LeetCode](https://leetcode.com), [Codeforces](https://codeforces.com/profile/adityakhanna), GFG  
+- 🧠 Favorite Topics: Binary Search, Graph Theory, DP, Backtracking, Problem Reductions
 
 ---
 
-## 🎓 Education  
-
-**B.Tech – Computer Science (2022–2026)**  
-Jaypee Institute of Information Technology — CGPA: 7.3  
-
-**XII (CBSE, 2022)**  
-Shirdi Sai Public School — 91%
-
----
-
-## 📜 Certifications  
-- Data Structures & Algorithms – GeeksForGeeks (May–July 2024)
-
----
-
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adityavardhankhanna/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Khanna-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/ADITYA-0208"><img src="https://img.shields.io/badge/GitHub-ADITYA--0208-black?style=for-the-badge&logo=github"></a>
-  <a href="https://codeforces.com/profile/adityakhanna"><img src="https://img.shields.io/badge/Codeforces-AdityaKhanna-orange?style=for-the-badge&logo=codeforces"></a>
-  <a href="mailto:adityavardhankhanna@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/adityavardhankhanna/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Aditya%20Khanna-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ADITYA-0208">
+    <img src="https://img.shields.io/badge/GITHUB-ADITYA--0208-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://codeforces.com/profile/adityakhanna">
+    <img src="https://img.shields.io/badge/CODEFORCES-@AdityaKhanna-orange?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="mailto:adityavardhankhanna@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-> “Build for scale. Code with intent.”  
-~ Aditya Khanna
+## ✨ Fun Bits
+
+- ☕ Runs on code, chai, and curiosity.  
+- ⚙️ Loves setting up EC2 instances and architecting backend services.  
+- 📚 Believer in **mastering core concepts** before tools.
+
+---
+
+<h3 align="center">AWS Cloud Builder | Spring Boot Dev | Java 💻</h3>
