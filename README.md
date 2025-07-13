@@ -1,4 +1,4 @@
-<h1 align="center">✨ Aditya Khanna ✨</h1>
+<h1 align="center"> Aditya Khanna </h1>
 <p align="center">
   👨‍💻 Final Year CSE Student @ JIIT Noida | ☁️ Backend & Cloud Developer | 💡 DSA Enthusiast
 </p>
