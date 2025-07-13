@@ -1,83 +1,88 @@
-✨ Aditya Khanna ✨  
-👨‍💻 Final Year CSE Student @ JIIT Noida | ⚙️ Backend Engineer | ☁️ AWS & Spring Boot Enthusiast  
+<h1 align="center">✨ Aditya Khanna ✨</h1>
+<p align="center">👨‍💻 Final Year CSE Student @ JIIT Noida | ⚙️ Backend Engineer | ☁️ AWS & Spring Boot Enthusiast</p>
 
 ---
 
-🌟 About Me  
-"Clean code. Scalable systems. Relentless curiosity."  
+### 🌟 About Me  
+"Clean code. Scalable systems. Relentless curiosity."
 
-Hey there! I'm Aditya, a passionate Computer Science student at JIIT Noida. I specialize in crafting robust backend services and scalable full-stack solutions. My interests lie in backend architecture, cloud deployment (AWS), and solving real-world problems through code.  
+Hey there! I'm Aditya, a Computer Science student at JIIT Noida who loves building efficient backend systems and scalable full-stack applications. I'm deeply interested in backend architecture, AWS cloud, and real-world problem solving through code.
 
-🔭 Currently Building: Production-grade Billing Management System  
-☁️ Recent Tools: Spring Boot, AWS S3 & EC2, JWT, MongoDB  
-💻 Solved 800+ DSA problems across LeetCode, Codeforces, and GFG  
-🎯 Codeforces Rating: 1200+  
-📫 Reach Me: adityavardhankhanna@gmail.com  
-
----
-
-🚀 Featured Projects  
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **BillCraft** (Billing Management System) | Spring Boot, MySQL, AWS S3, React | Built a complete billing system with secure JWT-based login, file upload to AWS S3, and real-time backend APIs. Deployed via Vercel & Render. |
-| **LaggOut** (Video Chat App) | Node.js, Express, MongoDB, Stream API | Designed a secure chat app with friend discovery, JWT auth, and real-time messaging using Stream Chat API. |
+- 🔭 Currently Building: Billing Management System  
+- ☁️ Recently Working With: AWS EC2, S3, Spring Boot Security, JWT Auth  
+- 💻 DSA Stats: 800+ problems solved across LeetCode, Codeforces & GFG  
+- 🎯 Codeforces: 1200+ rating  
+- 📫 Reach me at: **adityavardhankhanna@gmail.com**
 
 ---
 
-🧰 Tech Toolbox  
-- **Languages:** C++, Java  
-- **Backend:** Spring Boot, Node.js, REST APIs  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Cloud:** AWS (S3, EC2), Render, Vercel  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Dev Tools:** Git, Postman, VS Code  
+## 🧰 Tech Toolbox  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+</p>
 
 ---
 
-📊 DSA & CP Journey  
-✅ 800+ Problems Solved  
-🧠 Favorite Topics: Graphs, DP, Sliding Window, Binary Search  
-🏆 Platforms:  
-- LeetCode (5 badges)  
-- Codeforces (Pupil, 1200+)  
-- GeeksforGeeks  
+## 📊 DSA Journey  
+
+- ✅ **800+ Problems Solved** across LeetCode (500+), GFG (300+), Codeforces  
+- 🚀 Platforms: [LeetCode](https://leetcode.com) | [Codeforces](https://codeforces.com/profile/adityakhanna) | GFG  
+- 🧠 Favorite Topics: Graphs, DP, Sliding Window, Binary Search, Real-world Problem Solving  
 
 ---
 
-🎓 Education  
+## 🚀 Projects  
+
+### 🔹 BillCraft – *Billing Management System*  
+> **Tech:** Spring Boot, MySQL, AWS S3, JWT, React  
+- Full-stack billing system with secure auth, file uploads, and role-based access.  
+- Deployed via Vercel & Render.  
+- 🔗 [GitHub Repo](https://github.com/ADITYA-0208/BillingSoftware)
+
+### 🔹 LaggOut – *Video Chat App*  
+> **Tech:** Node.js, Express, MongoDB, Stream Chat API  
+- Real-time chat, friend system, protected routes, JWT auth  
+- 🔗 [GitHub Repo](https://github.com/ADITYA-0208/LaggOut.git)
+
+---
+
+## 🎓 Education  
+
 **B.Tech – Computer Science (2022–2026)**  
-Jaypee Institute of Information Technology | CGPA: 7.3  
+Jaypee Institute of Information Technology — CGPA: 7.3  
 
-**XII – CBSE (2022)**  
-Shirdi Sai Public School | 91%  
-
----
-
-💼 Work Experience  
-**Web Development Intern – Innotical Solutions, Noida**  
-- Contributed to full-stack development in the US healthcare insurance domain  
-- Built internal portals for brokers and providers using Java, Spring Boot, and React  
-- Delivered reliable, scalable systems with efficient API integration  
+**XII (CBSE, 2022)**  
+Shirdi Sai Public School — 91%
 
 ---
 
-📜 Certifications  
-- Data Structures & Algorithms – GeeksForGeeks (May–July 2024)  
+## 📜 Certifications  
+- Data Structures & Algorithms – GeeksForGeeks (May–July 2024)
 
 ---
 
-🌐 Connect With Me  
-[GitHub](https://github.com/ADITYA-0208) |  
-[LinkedIn](https://www.linkedin.com/in/adityavardhankhanna/) |  
-[Codeforces](https://codeforces.com/profile/adityakhanna?graphType=rated)  
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adityavardhankhanna/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Khanna-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/ADITYA-0208"><img src="https://img.shields.io/badge/GitHub-ADITYA--0208-black?style=for-the-badge&logo=github"></a>
+  <a href="https://codeforces.com/profile/adityakhanna"><img src="https://img.shields.io/badge/Codeforces-AdityaKhanna-orange?style=for-the-badge&logo=codeforces"></a>
+  <a href="mailto:adityavardhankhanna@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
-
-✨ Fun Bits  
-☕ Fueled by code, chai, and curiosity  
-🧩 Loves debugging more than debugging loves him  
-🌩️ Finds joy in clean code and cloud architecture  
 
 > “Build for scale. Code with intent.”  
-~ Aditya Khanna  
+~ Aditya Khanna
